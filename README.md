@@ -51,3 +51,7 @@ Before running the WeatherSure application, ensure that you have Node.js and npm
    npm run serve
 
 2. Wait for the compilation to complete. You will see the local development server address, usually http://localhost:8080, displayed in the terminal. Proceed to view the application.
+
+## Snapshot
+
+![alt text](https://github.com/kshittijagrawal/WeatherSure-FrontEnd/blob/master/weatherSure/src/assets/WeatherSure%20-%20HomePage.png)
