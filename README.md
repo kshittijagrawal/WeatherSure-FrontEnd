@@ -2,6 +2,15 @@
 
 WeatherSure is a realtime weather monitoring application that allows you to search for weather information of a particular location. It provides comprehensive and up-to-date weather data, covering every crucial detail related to the weather conditions.
 
+## Tech Used
+
+The WeatherSure application is built using the following technologies:
+
+- **Vue.js**: A progressive JavaScript framework for building user interfaces.
+- **JavaScript**: The programming language used for frontend development.
+- **HTML**: The markup language used for structuring the web pages.
+- **CSS**: The stylesheet language used for styling the web pages.
+
 ## Features
 
 - Search: Easily search for the weather information of any location around the world.
